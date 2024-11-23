@@ -1,0 +1,186 @@
+{
+  "project_info": {
+    "project_number": "151590191214",
+    "project_id": "emarket-e420c",
+    "storage_bucket": "emarket-e420c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151590191214:android:7f2fbbfd5ed53043a5667f",
+        "android_client_info": {
+          "package_name": "com.sixamtech.hexacom_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151590191214-8v4lnd52phce9ql0us887g6boi9qr0c8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sixamtech.hexacom_delivery",
+            "certificate_hash": "cd0ac511cd390e4642666eb8571050d5fe8aa319"
+          }
+        },
+        {
+          "client_id": "151590191214-q5b59lk5mttuh56v7mbr146setu30sst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA39xMnUe1ldzaPeq9MUmxTxmhUbuX9Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151590191214-l482u4h76kks5ua8djv80dgpph8i738f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "151590191214-8l5lcsrreuepv954e3qtilof73hkikdm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.u6amtech.emarketUser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151590191214:android:f7236f78eba83052a5667f",
+        "android_client_info": {
+          "package_name": "com.sixamtech.hexacom_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151590191214-0miapvbch4rolf5dh9uu4gfr11j8sth4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sixamtech.hexacom_user",
+            "certificate_hash": "cd0ac511cd390e4642666eb8571050d5fe8aa319"
+          }
+        },
+        {
+          "client_id": "151590191214-q5b59lk5mttuh56v7mbr146setu30sst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA39xMnUe1ldzaPeq9MUmxTxmhUbuX9Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151590191214-l482u4h76kks5ua8djv80dgpph8i738f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "151590191214-8l5lcsrreuepv954e3qtilof73hkikdm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.u6amtech.emarketUser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151590191214:android:949cec6ae7e55e3ba5667f",
+        "android_client_info": {
+          "package_name": "com.u6amtech.emarket_delivery_boy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151590191214-ro1bufdod3fffatgrr42uadfvp7g1b0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.u6amtech.emarket_delivery_boy",
+            "certificate_hash": "cd0ac511cd390e4642666eb8571050d5fe8aa319"
+          }
+        },
+        {
+          "client_id": "151590191214-q5b59lk5mttuh56v7mbr146setu30sst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA39xMnUe1ldzaPeq9MUmxTxmhUbuX9Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151590191214-l482u4h76kks5ua8djv80dgpph8i738f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "151590191214-8l5lcsrreuepv954e3qtilof73hkikdm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.u6amtech.emarketUser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151590191214:android:86a426bd597613a5a5667f",
+        "android_client_info": {
+          "package_name": "com.u6amtech.emarket_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151590191214-44lpbt41kcho5rb3sd1ldid43025fgda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.u6amtech.emarket_user",
+            "certificate_hash": "cd0ac511cd390e4642666eb8571050d5fe8aa319"
+          }
+        },
+        {
+          "client_id": "151590191214-q5b59lk5mttuh56v7mbr146setu30sst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA39xMnUe1ldzaPeq9MUmxTxmhUbuX9Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151590191214-l482u4h76kks5ua8djv80dgpph8i738f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "151590191214-8l5lcsrreuepv954e3qtilof73hkikdm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.u6amtech.emarketUser"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

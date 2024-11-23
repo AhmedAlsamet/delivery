@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>151590191214-9c9hp5rjab8r1js7vi0val8hesr7r6ib.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.151590191214-9c9hp5rjab8r1js7vi0val8hesr7r6ib</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC8DIKAdbZOgJD7cq77WiUGgltsB9qAqKc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>151590191214</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.6amtech.resturantDeliveryBoy</string>
+	<key>PROJECT_ID</key>
+	<string>emarket-e420c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>emarket-e420c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:151590191214:ios:26d4ba5c42acddf3a5667f</string>
+</dict>
+</plist>
