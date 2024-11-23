@@ -26,7 +26,7 @@
     </queries>
 
     <application
-        android:label="Hexacom Delivery Man"
+        android:label="Ahmed Alsamet"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
         android:icon="@mipmap/ic_launcher">
