@@ -13,7 +13,7 @@ if (keystorePropertiesFile.exists()) {
 
 android {
     compileSdkVersion 34 // 33
-    namespace = "com.example.blade"
+    namespace = "com.sixamtech.hexacom_delivery"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
