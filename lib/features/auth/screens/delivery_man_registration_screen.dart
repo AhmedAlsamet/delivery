@@ -15,7 +15,7 @@ import 'package:emarket_delivery_boy/commons/widgets/custom_text_field_widget.da
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:phone_number/phone_number.dart';
+import 'package:phone_numbers_parser/phone_numbers_parser.dart';
 import 'package:provider/provider.dart';
 
 class DeliveryManRegistrationScreen extends StatefulWidget {
@@ -410,8 +410,8 @@ class _DeliveryManRegistrationScreenState extends State<DeliveryManRegistrationS
     bool isValid = kIsWeb;
     if(!kIsWeb) {
       try {
-        PhoneNumber phoneNumber = await PhoneNumberUtil().parse(numberWithCountryCode);
-        numberWithCountryCode = '+${phoneNumber.countryCode}${phoneNumber.nationalNumber}';
+        PhoneNumber phoneNumber = PhoneNumber.parse(numberWithCountryCode);
+        numberWithCountryCode = '+${phoneNumber.countryCode}${phoneNumber.international}';
         isValid = true;
       // ignore: empty_catches
       } catch (error) {
